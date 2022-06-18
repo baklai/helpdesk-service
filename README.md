@@ -5,6 +5,7 @@ Web Application of Technical Support Department.
 <img src="/static/img/social-preview.png">
 
 ## Demo application -> [Helpdesk service](https://helpdesk-service.herokuapp.com/)
+All data used in the demo was randomly generated. Any matches are considered random.
 
 ```bash
   # User account of demo application
