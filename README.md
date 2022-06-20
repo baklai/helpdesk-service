@@ -35,6 +35,10 @@ $ npm install
 ## Create env config key
 
 ```bash
+# App port
+PORT=300
+# App host
+HOST=localhost
 # API_URI key
 API_URI=http://localhost:3000
 # MONGO_URI key
