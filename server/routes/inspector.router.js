@@ -7,7 +7,7 @@ const router = Router();
 router
   .route('/')
   .get(hasScope('inspector'), Controller.findAll)
-  .post(hasScope('inspector:post'), Controller.createOne);
+  .post(Controller.createOne);
 
 router
   .route('/:id')
